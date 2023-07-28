@@ -1,0 +1,185 @@
+2023-07-27 14:34:21.8289|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 14:34:21.8334|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 14:34:21.8336|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 14:34:21.8336|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 14:34:21.8336|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 14:34:31.9213|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. TMSapi.Exceptions.EntityNotFoundException: 'Event' with id '1' was not found.
+   at TMSapi.Repositories.EventRepository.GetById(Int32 id) in /Users/buzealexandra/Desktop/TMSapi/TMSapi/Repositories/EventRepository.cs:line 45
+   at TMSapi.Controllers.EventController.GetById(Int32 id) in /Users/buzealexandra/Desktop/TMSapi/TMSapi/Controllers/EventController.cs:line 60
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: https://localhost/api/Event/GetById|action: GetById
+2023-07-27 14:49:58.6823|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 14:49:58.7104|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 14:49:58.7106|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 14:49:58.7106|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 14:49:58.7106|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 14:51:44.2854|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 14:51:44.2888|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 14:51:44.2888|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 14:51:44.2888|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 14:51:44.2888|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 15:09:04.4141|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 15:09:04.4173|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 15:09:04.4173|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 15:09:04.4173|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 15:09:04.4173|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:16:18.8045|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 17:16:18.8081|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 17:16:18.8081|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 17:16:18.8081|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 17:16:18.8081|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:17:14.9263|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'TMSapi.Repositories.ITicketCategoryRepository' while attempting to activate 'TMSapi.Controllers.OrderController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: https://localhost/api/Order/Add/Add%20Order|action: Add
+2023-07-27 17:17:31.4339|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'TMSapi.Repositories.ITicketCategoryRepository' while attempting to activate 'TMSapi.Controllers.OrderController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: https://localhost/api/Order/Add/Add%20Order|action: Add
+2023-07-27 17:19:59.0966|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 17:19:59.1272|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 17:19:59.1272|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 17:19:59.1272|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 17:19:59.1272|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:34:55.8740|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 17:34:55.8770|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 17:34:55.8770|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 17:34:55.8770|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 17:34:55.8774|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:46:48.0958|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 17:46:48.1232|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 17:46:48.1232|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 17:46:48.1232|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 17:46:48.1232|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:51:22.9547|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 17:51:23.0107|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 17:51:23.0107|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 17:51:23.0113|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 17:51:23.0113|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:55:27.4943|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 17:55:27.5183|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 17:55:27.5183|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 17:55:27.5183|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 17:55:27.5189|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:57:04.1281|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'TMSapi.Repositories.ITicketCategoryRepository' while attempting to activate 'TMSapi.Controllers.OrderController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: https://localhost/api/Order/Add/Add%20Order|action: Add
+2023-07-27 17:57:12.2723|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'TMSapi.Repositories.ITicketCategoryRepository' while attempting to activate 'TMSapi.Controllers.OrderController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: https://localhost/api/Order/Add/Add%20Order|action: Add
+2023-07-27 17:57:19.4149|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'TMSapi.Repositories.ITicketCategoryRepository' while attempting to activate 'TMSapi.Controllers.OrderController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: https://localhost/api/Order/Add/Add%20Order|action: Add
+2023-07-27 17:58:42.6872|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 17:58:42.6921|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 17:58:42.6921|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 17:58:42.6925|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 17:58:42.6925|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 17:59:32.4206|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'TMSapi.Repositories.ITicketCategoryRepository' while attempting to activate 'TMSapi.Controllers.OrderController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|url: https://localhost/api/Order/Add/Add%20Order|action: Add
+2023-07-27 18:01:12.4731|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 18:01:12.5017|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 18:01:12.5019|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 18:01:12.5019|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 18:01:12.5019|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 18:27:04.5556|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 18:27:04.5593|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 18:27:04.5593|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 18:27:04.5593|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 18:27:04.5593|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
+2023-07-27 18:34:26.4607|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 |url: |action: 
+2023-07-27 18:34:26.4634|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 |url: |action: 
+2023-07-27 18:34:26.4634|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2023-07-27 18:34:26.4634|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2023-07-27 18:34:26.4639|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi |url: |action: 
