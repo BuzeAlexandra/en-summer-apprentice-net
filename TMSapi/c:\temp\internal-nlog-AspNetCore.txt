@@ -1,0 +1,432 @@
+2023-07-27 14:34:21.4076 Info Message Template Auto Format enabled
+2023-07-27 14:34:21.4368 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 14:34:21.4368 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 14:34:21.4377 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 14:34:21.4701 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 14:34:21.4747 Info Configuration initialized.
+2023-07-27 14:34:21.4941 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 14:34:21.4941 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 14:49:58.2636 Info Message Template Auto Format enabled
+2023-07-27 14:49:58.2894 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 14:49:58.2900 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 14:49:58.2900 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 14:49:58.3278 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 14:49:58.3325 Info Configuration initialized.
+2023-07-27 14:49:58.3457 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 14:49:58.3457 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 14:51:43.8859 Info Message Template Auto Format enabled
+2023-07-27 14:51:43.9108 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 14:51:43.9115 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 14:51:43.9115 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 14:51:43.9442 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 14:51:43.9488 Info Configuration initialized.
+2023-07-27 14:51:43.9640 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 14:51:43.9640 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 15:09:03.9615 Info Message Template Auto Format enabled
+2023-07-27 15:09:03.9864 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 15:09:03.9864 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 15:09:03.9864 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 15:09:04.0201 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 15:09:04.0248 Info Configuration initialized.
+2023-07-27 15:09:04.0375 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 15:09:04.0375 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:16:18.3961 Info Message Template Auto Format enabled
+2023-07-27 17:16:18.4282 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 17:16:18.4290 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 17:16:18.4290 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 17:16:18.4602 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:16:18.4650 Info Configuration initialized.
+2023-07-27 17:16:18.4797 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 17:16:18.4800 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:19:58.7158 Info Message Template Auto Format enabled
+2023-07-27 17:19:58.7405 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 17:19:58.7413 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 17:19:58.7413 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 17:19:58.7781 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:19:58.7827 Info Configuration initialized.
+2023-07-27 17:19:58.7972 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 17:19:58.7972 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:34:55.3971 Info Message Template Auto Format enabled
+2023-07-27 17:34:55.4230 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 17:34:55.4236 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 17:34:55.4236 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 17:34:55.4557 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:34:55.4602 Info Configuration initialized.
+2023-07-27 17:34:55.4720 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 17:34:55.4723 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:46:47.6594 Info Message Template Auto Format enabled
+2023-07-27 17:46:47.6844 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 17:46:47.6850 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 17:46:47.6850 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 17:46:47.7164 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:46:47.7210 Info Configuration initialized.
+2023-07-27 17:46:47.7327 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 17:46:47.7327 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:51:22.5057 Info Message Template Auto Format enabled
+2023-07-27 17:51:22.5380 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 17:51:22.5380 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 17:51:22.5380 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 17:51:22.5710 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:51:22.5756 Info Configuration initialized.
+2023-07-27 17:51:22.5939 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 17:51:22.5942 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:55:27.0322 Info Message Template Auto Format enabled
+2023-07-27 17:55:27.0582 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 17:55:27.0589 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 17:55:27.0589 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 17:55:27.0940 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:55:27.0988 Info Configuration initialized.
+2023-07-27 17:55:27.1149 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 17:55:27.1149 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:58:42.2319 Info Message Template Auto Format enabled
+2023-07-27 17:58:42.2632 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 17:58:42.2638 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 17:58:42.2638 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 17:58:42.3006 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 17:58:42.3052 Info Configuration initialized.
+2023-07-27 17:58:42.3228 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 17:58:42.3228 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 18:01:12.0382 Info Message Template Auto Format enabled
+2023-07-27 18:01:12.0633 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 18:01:12.0641 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 18:01:12.0641 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 18:01:12.0997 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 18:01:12.1044 Info Configuration initialized.
+2023-07-27 18:01:12.1198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 18:01:12.1201 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 18:27:04.1047 Info Message Template Auto Format enabled
+2023-07-27 18:27:04.1311 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 18:27:04.1319 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 18:27:04.1319 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 18:27:04.1654 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 18:27:04.1700 Info Configuration initialized.
+2023-07-27 18:27:04.1851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 18:27:04.1854 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 18:34:26.0370 Info Message Template Auto Format enabled
+2023-07-27 18:34:26.0635 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-27 18:34:26.0643 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-27 18:34:26.0643 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-27 18:34:26.0962 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-27 18:34:26.1010 Info Configuration initialized.
+2023-07-27 18:34:26.1176 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-27 18:34:26.1179 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-28 09:38:51.1741 Info Message Template Auto Format enabled
+2023-07-28 09:38:51.1993 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-28 09:38:51.2000 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-28 09:38:51.2000 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-28 09:38:51.2350 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-28 09:38:51.2396 Info Configuration initialized.
+2023-07-28 09:38:51.2516 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-28 09:38:51.2516 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-28 09:40:45.2988 Info Message Template Auto Format enabled
+2023-07-28 09:40:45.3319 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-28 09:40:45.3325 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-28 09:40:45.3325 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-28 09:40:45.3644 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-28 09:40:45.3690 Info Configuration initialized.
+2023-07-28 09:40:45.3856 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-28 09:40:45.3856 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-28 11:49:47.1028 Info Message Template Auto Format enabled
+2023-07-28 11:49:47.1366 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-28 11:49:47.1375 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-28 11:49:47.1375 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-28 11:49:47.1759 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-28 11:49:47.1813 Info Configuration initialized.
+2023-07-28 11:49:47.2013 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-28 11:49:47.2013 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 12:22:52.7018 Info Message Template Auto Format enabled
+2023-07-29 12:22:52.7316 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-29 12:22:52.7323 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-29 12:22:52.7323 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-29 12:22:52.7744 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 12:22:52.7790 Info Configuration initialized.
+2023-07-29 12:22:52.7904 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-29 12:22:52.7904 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 12:29:27.0532 Info Message Template Auto Format enabled
+2023-07-29 12:29:27.0814 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-29 12:29:27.0822 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-29 12:29:27.0822 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-29 12:29:27.1169 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 12:29:27.1216 Info Configuration initialized.
+2023-07-29 12:29:27.1364 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-29 12:29:27.1364 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 12:34:22.5115 Info Message Template Auto Format enabled
+2023-07-29 12:34:22.5436 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-29 12:34:22.5444 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-29 12:34:22.5444 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-29 12:34:22.5896 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 12:34:22.5942 Info Configuration initialized.
+2023-07-29 12:34:22.6101 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-29 12:34:22.6101 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 13:05:57.1397 Info Message Template Auto Format enabled
+2023-07-29 13:05:57.1681 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-29 13:05:57.1689 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-29 13:05:57.1689 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-29 13:05:57.2256 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 13:05:57.2308 Info Configuration initialized.
+2023-07-29 13:05:57.2489 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-29 13:05:57.2493 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 13:06:56.3182 Info Message Template Auto Format enabled
+2023-07-29 13:06:56.3572 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-29 13:06:56.3587 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-29 13:06:56.3591 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-29 13:06:56.3955 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-29 13:06:56.4006 Info Configuration initialized.
+2023-07-29 13:06:56.4166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-29 13:06:56.4166 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:34:20.9457 Info Message Template Auto Format enabled
+2023-07-30 18:34:20.9796 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:34:20.9803 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:34:20.9803 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:34:21.0170 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:34:21.0221 Info Configuration initialized.
+2023-07-30 18:34:21.0392 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:34:21.0392 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:37:57.9617 Info Message Template Auto Format enabled
+2023-07-30 18:37:58.0316 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:37:58.0322 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:37:58.0322 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:37:58.0625 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:37:58.0671 Info Configuration initialized.
+2023-07-30 18:37:58.0839 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:37:58.0839 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:44:16.8770 Info Message Template Auto Format enabled
+2023-07-30 18:44:16.9108 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:44:16.9118 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:44:16.9121 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:44:16.9547 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:44:16.9594 Info Configuration initialized.
+2023-07-30 18:44:16.9745 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:44:16.9745 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:47:06.4781 Info Message Template Auto Format enabled
+2023-07-30 18:47:06.5091 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:47:06.5099 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:47:06.5099 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:47:06.5451 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:47:06.5501 Info Configuration initialized.
+2023-07-30 18:47:06.5663 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:47:06.5663 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:48:41.3678 Info Message Template Auto Format enabled
+2023-07-30 18:48:41.3948 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:48:41.3956 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:48:41.3956 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:48:41.4356 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:48:41.4403 Info Configuration initialized.
+2023-07-30 18:48:41.4556 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:48:41.4556 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:51:27.4209 Info Message Template Auto Format enabled
+2023-07-30 18:51:27.4506 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:51:27.4506 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:51:27.4516 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:51:27.4844 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:51:27.4895 Info Configuration initialized.
+2023-07-30 18:51:27.5048 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:51:27.5048 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:53:06.5938 Info Message Template Auto Format enabled
+2023-07-30 18:53:06.6242 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:53:06.6242 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:53:06.6252 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:53:06.6747 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:53:06.6800 Info Configuration initialized.
+2023-07-30 18:53:06.6970 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:53:06.6974 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:56:56.7282 Info Message Template Auto Format enabled
+2023-07-30 18:56:56.7643 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 18:56:56.7643 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 18:56:56.7655 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 18:56:56.7984 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 18:56:56.8030 Info Configuration initialized.
+2023-07-30 18:56:56.8191 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 18:56:56.8194 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:00:37.4754 Info Message Template Auto Format enabled
+2023-07-30 19:00:37.5092 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:00:37.5100 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:00:37.5100 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:00:37.5452 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:00:37.5498 Info Configuration initialized.
+2023-07-30 19:00:37.5927 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:00:37.5930 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:01:22.7817 Info Message Template Auto Format enabled
+2023-07-30 19:01:22.8096 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:01:22.8096 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:01:22.8105 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:01:22.8469 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:01:22.8520 Info Configuration initialized.
+2023-07-30 19:01:22.8909 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:01:22.8909 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:04:36.4278 Info Message Template Auto Format enabled
+2023-07-30 19:04:36.4552 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:04:36.4552 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:04:36.4563 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:04:36.4913 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:04:36.4960 Info Configuration initialized.
+2023-07-30 19:04:36.5127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:04:36.5127 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:05:01.1104 Info Message Template Auto Format enabled
+2023-07-30 19:05:01.1402 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:05:01.1409 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:05:01.1409 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:05:01.1775 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:05:01.1828 Info Configuration initialized.
+2023-07-30 19:05:01.1988 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:05:01.1988 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:10:30.2954 Info Message Template Auto Format enabled
+2023-07-30 19:10:30.3177 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:10:30.3177 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:10:30.3188 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:10:30.3536 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:10:30.3581 Info Configuration initialized.
+2023-07-30 19:10:30.3615 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:10:30.3616 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:11:03.9214 Info Message Template Auto Format enabled
+2023-07-30 19:11:03.9458 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:11:03.9466 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:11:03.9466 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:11:03.9845 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:11:03.9912 Info Configuration initialized.
+2023-07-30 19:11:03.9957 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:11:03.9960 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:11:31.9859 Info Message Template Auto Format enabled
+2023-07-30 19:11:32.0174 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:11:32.0174 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:11:32.0183 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:11:32.0613 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:11:32.0666 Info Configuration initialized.
+2023-07-30 19:11:32.0800 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:11:32.0803 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:14:12.6174 Info Message Template Auto Format enabled
+2023-07-30 19:14:12.6544 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 19:14:12.6555 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 19:14:12.6558 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 19:14:12.6905 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 19:14:12.6954 Info Configuration initialized.
+2023-07-30 19:14:12.6994 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 19:14:12.6997 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:22:22.8990 Info Message Template Auto Format enabled
+2023-07-30 20:22:22.9280 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:22:22.9288 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:22:22.9288 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:22:22.9902 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:22:22.9954 Info Configuration initialized.
+2023-07-30 20:22:23.0327 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:22:23.0327 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:24:44.8825 Info Message Template Auto Format enabled
+2023-07-30 20:24:44.9272 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:24:44.9289 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:24:44.9289 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:24:45.0030 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:24:45.0093 Info Configuration initialized.
+2023-07-30 20:24:45.0440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:24:45.0440 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:25:13.2742 Info Message Template Auto Format enabled
+2023-07-30 20:25:13.3050 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:25:13.3059 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:25:13.3059 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:25:13.3428 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:25:13.3476 Info Configuration initialized.
+2023-07-30 20:25:13.3671 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:25:13.3675 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:27:50.5906 Info Message Template Auto Format enabled
+2023-07-30 20:27:50.6265 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:27:50.6273 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:27:50.6273 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:27:50.6615 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:27:50.6660 Info Configuration initialized.
+2023-07-30 20:27:50.6844 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:27:50.6844 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:32:21.0931 Info Message Template Auto Format enabled
+2023-07-30 20:32:21.1355 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:32:21.1373 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:32:21.1373 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:32:21.1774 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:32:21.1822 Info Configuration initialized.
+2023-07-30 20:32:21.1859 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:32:21.1861 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:32:27.2076 Info Message Template Auto Format enabled
+2023-07-30 20:32:27.2352 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:32:27.2359 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:32:27.2359 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:32:27.2728 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:32:27.2778 Info Configuration initialized.
+2023-07-30 20:32:27.2911 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:32:27.2911 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:36:21.0979 Info Message Template Auto Format enabled
+2023-07-30 20:36:21.1394 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:36:21.1403 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:36:21.1403 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:36:21.1879 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:36:21.1930 Info Configuration initialized.
+2023-07-30 20:36:21.2098 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:36:21.2098 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:36:38.2888 Info Message Template Auto Format enabled
+2023-07-30 20:36:38.3227 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:36:38.3235 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:36:38.3235 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:36:38.3680 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:36:38.3733 Info Configuration initialized.
+2023-07-30 20:36:38.3909 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:36:38.3909 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:42:47.1097 Info Message Template Auto Format enabled
+2023-07-30 20:42:47.1374 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:42:47.1385 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:42:47.1385 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:42:47.1721 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:42:47.1764 Info Configuration initialized.
+2023-07-30 20:42:47.1797 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:42:47.1797 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:42:54.9857 Info Message Template Auto Format enabled
+2023-07-30 20:42:55.0114 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:42:55.0114 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:42:55.0124 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:42:55.0506 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:42:55.0551 Info Configuration initialized.
+2023-07-30 20:42:55.0587 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:42:55.0587 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:43:08.7721 Info Message Template Auto Format enabled
+2023-07-30 20:43:08.8062 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:43:08.8070 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:43:08.8070 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:43:08.8539 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:43:08.8586 Info Configuration initialized.
+2023-07-30 20:43:08.8707 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:43:08.8710 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:47:16.6768 Info Message Template Auto Format enabled
+2023-07-30 20:47:16.7168 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:47:16.7176 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:47:16.7176 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:47:16.7498 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:47:16.7544 Info Configuration initialized.
+2023-07-30 20:47:16.7713 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:47:16.7713 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:51:25.6277 Info Message Template Auto Format enabled
+2023-07-30 20:51:25.6560 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:51:25.6573 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:51:25.6573 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:51:25.6997 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:51:25.7043 Info Configuration initialized.
+2023-07-30 20:51:25.7077 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:51:25.7077 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:51:32.9088 Info Message Template Auto Format enabled
+2023-07-30 20:51:32.9340 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:51:32.9347 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:51:32.9347 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:51:32.9665 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:51:32.9714 Info Configuration initialized.
+2023-07-30 20:51:32.9831 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:51:32.9831 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:53:15.8047 Info Message Template Auto Format enabled
+2023-07-30 20:53:15.8317 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-30 20:53:15.8317 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-30 20:53:15.8326 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-30 20:53:15.8697 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-30 20:53:15.8745 Info Configuration initialized.
+2023-07-30 20:53:15.8863 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-30 20:53:15.8867 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-31 14:57:09.4321 Info Message Template Auto Format enabled
+2023-07-31 14:57:09.4658 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-31 14:57:09.4658 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-07-31 14:57:09.4668 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-07-31 14:57:09.5099 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config
+2023-07-31 14:57:09.5148 Info Configuration initialized.
+2023-07-31 14:57:09.5353 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.2.1914. Product version: 5.2.2+51cc02a2dd780a9a01eb6747de52071d78e2f506. GlobalAssemblyCache: False
+2023-07-31 14:57:09.5353 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/buzealexandra/Desktop/TMSapi/TMSapi/bin/Debug/net6.0/NLog.config

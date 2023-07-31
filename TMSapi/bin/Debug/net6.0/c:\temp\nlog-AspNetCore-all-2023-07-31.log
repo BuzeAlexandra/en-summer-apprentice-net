@@ -1,0 +1,38 @@
+2023-07-31 14:57:09.5978|12|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2023-07-31 14:57:09.6227|1|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-07-31 14:57:10.2310|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2023-07-31 14:57:10.3135|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5061 
+2023-07-31 14:57:10.3137|13|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly TMSapi 
+2023-07-31 14:57:10.3137|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-07-31 14:57:10.3137|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-07-31 14:57:10.3152|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /Users/buzealexandra/Desktop/TMSapi/TMSapi 
+2023-07-31 14:57:10.3152|2|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-07-31 14:57:10.6802|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKT" accepted. 
+2023-07-31 14:57:10.6813|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKT" started. 
+2023-07-31 14:57:11.6861|6|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HMSHNL2QNRKT" received FIN. 
+2023-07-31 14:57:11.6978|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Failed to authenticate HTTPS connection. System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-07-31 14:57:11.7109|2|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKT" stopped. 
+2023-07-31 14:57:11.7148|7|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HMSHNL2QNRKT" sending FIN because: "The Socket transport's send loop completed gracefully." 
+2023-07-31 14:57:12.4215|39|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKU" accepted. 
+2023-07-31 14:57:12.4439|1|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKU" started. 
+2023-07-31 14:57:12.5651|3|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware|Connection 0HMSHNL2QNRKU established using the following protocol: Tls12 
+2023-07-31 14:57:13.5985|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET https://localhost:7298/swagger/index.html - - 
+2023-07-31 14:57:13.5996|0|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-07-31 14:57:13.5996|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-31 14:57:13.6128|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/index.html' 
+2023-07-31 14:57:13.6128|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-07-31 14:57:13.6654|9|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKU" completed keep alive response. 
+2023-07-31 14:57:13.6663|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET https://localhost:7298/swagger/index.html - - - 200 - text/html;charset=utf-8 68.5000ms 
+2023-07-31 14:57:13.8177|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET https://localhost:7298/swagger/v1/swagger.json - - 
+2023-07-31 14:57:13.8177|2|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-07-31 14:57:13.8177|1000|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json' 
+2023-07-31 14:57:13.8177|2|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-07-31 14:57:13.8769|9|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKU" completed keep alive response. 
+2023-07-31 14:57:13.8769|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET https://localhost:7298/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 59.3473ms 
+2023-07-31 14:58:14.6645|6|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HMSHNL2QNRKU" received FIN. 
+2023-07-31 14:58:14.6963|10|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKU" disconnecting. 
+2023-07-31 14:58:14.7036|7|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HMSHNL2QNRKU" sending FIN because: "The client closed the connection." 
+2023-07-31 14:58:14.7092|2|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HMSHNL2QNRKU" stopped. 

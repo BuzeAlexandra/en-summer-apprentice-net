@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{7171A290-5905-4F67-8089-6E1FD01AD6A5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TMSapi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TMS.UnitTests/UnitTest1.cs">
+    <Files>
+      <File FileName="TMSapi/Controllers/VenueController.cs" Line="1" Column="1" />
+      <File FileName="TMSapi/Controllers/EventTypeController.cs" Line="18" Column="4" />
+      <File FileName="TMSapi/Services/IEventTypeService.cs" Line="17" Column="1" />
+      <File FileName="TMSapi/Services/EventTypeService.cs" Line="79" Column="1" />
+      <File FileName="TMSapi/Services/IEventService.cs" Line="13" Column="47" />
+      <File FileName="TMSapi/Repositories/EventRepository.cs" Line="1" Column="1" />
+      <File FileName="TMSapi/Repositories/EventTypeRepository.cs" Line="55" Column="10" />
+      <File FileName="TMSapi/Repositories/IEventTypeRepository.cs" Line="11" Column="42" />
+      <File FileName="TMSapi/Models/ProjectContext.cs" Line="86" Column="45" />
+      <File FileName="TMS.UnitTests/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TMSapi" expanded="True">
+            <Node name="TMS.UnitTests" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TMSapi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Middleware" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Dto" expanded="True" />
+              </Node>
+              <Node name="Profiles" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
